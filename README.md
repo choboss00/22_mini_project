@@ -34,3 +34,16 @@ STATIZ (야구 통계 사이트) 에서 기아 경기 데이터 수집
 
 ### 결과
 
+![pic1](https://user-images.githubusercontent.com/111727212/209548910-bf2bf5f9-6850-470f-8b33-169b128f4809.png)
+
+
+#### 특징 중요도
+
+![pic2](https://user-images.githubusercontent.com/111727212/209549024-fdcff6a7-fefa-46ef-a175-84324d3b8812.png)
+
+
+### 실제 적용
+
+테스트 케이스 : 8경기 (승 : 4 / 패 : 4)
+
+![pic3](https://user-images.githubusercontent.com/111727212/209549136-392895df-0cf9-409b-8e37-e2b9abcdf2c7.PNG)
